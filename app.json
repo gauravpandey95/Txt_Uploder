@@ -1,9 +1,9 @@
 
 {
 
-    "name": "MG",
+    "name": "Mohit",
 
-    "description": "A Modular telegram bot.",
+    "description": "A Modular motherfuker telegram bot.",
 
     "repository": "https://github.com/imacekun/cw-dl",
     "buildpacks":[
@@ -37,13 +37,13 @@
 
         "API_ID": {
 
-            "description": "Your API_ID from https://my.telegram.org/apps"
+            "description": "29946578"
 
         },
 
         "API_HASH": {
 
-            "description": "Your API_HASH from https://my.telegram.org/apps"
+            "description": "57e0b762f105ab1db072fabe4d65114b"
 
         }
 
